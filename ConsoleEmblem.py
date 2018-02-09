@@ -98,7 +98,7 @@ class Unit:
                 coords = input('Incorrect input. Try again!').split()
                 continue
             if target in valid_targets:
-                pass#Start here!
+                pass#Start here! Test!
 
     def get_valid_spaces(self, choice):
         if choice == 'move':
