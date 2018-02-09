@@ -1,0 +1,1 @@
+Basic turn-based tactics game. Player move command works as expected, next on the list is to work on the attack command.
